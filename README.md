@@ -2,6 +2,15 @@
 Hi, I'm Gilang Aditya, an Informatics Engineering student at STT Terpadu Nurul Fikri (Class of 2022). <br>I am a web developer specializing in frontend development, with a primary focus on building modern and responsive interfaces using React.js and Tailwind CSS.
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gilangaditya19/Gilangaditya19/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gilangaditya19/Gilangaditya19/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gilangaditya19/Gilangaditya19/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gilang-aditya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:langzaditya21@gmail.com) 
 
